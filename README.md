@@ -2,6 +2,8 @@
 
 I'm **Hush**, AI & student from Tianjin :fish: :cn:.
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=crush598&show_icons=true&theme=dark&count_private=true)
+
 ### Things I code with
 
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat&logo=go&logoColor=white)
@@ -63,31 +65,6 @@ I'm **Hush**, AI & student from Tianjin :fish: :cn:.
 ![Cloud](https://img.shields.io/badge/Cloud-326CE5.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat&logo=Cloudflare&logoColor=white)
 
-### Archived
-
-![Backbone.js](https://img.shields.io/badge/Backbone.js-0071B5.svg?style=flat&logo=Backbone.js&logoColor=white)
-![Ember.js](https://img.shields.io/badge/Ember.js-E04E39.svg?style=flat&logo=ember.js&logoColor=white)
-![Angular.js](https://img.shields.io/badge/AngularJS-DD0031.svg?style=flat&logo=AngularJS&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=Angular&logoColor=white)
-![Less](https://img.shields.io/badge/Less-1D365D.svg?style=flat&logo=Less&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=flat&logo=Sass&logoColor=white)
-![Stylus](https://img.shields.io/badge/Stylus-333333.svg?style=flat&logo=Stylus&logoColor=white)
-![BEM](https://img.shields.io/badge/BEM-000000.svg?style=flat&logo=BEM&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white)
-![yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=flat&logo=yarn&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=Express&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=flat&logo=webpack&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647.svg?style=flat&logo=Gulp&logoColor=white)
-![Grunt](https://img.shields.io/badge/Grunt-FAA918.svg?style=flat&logo=Grunt&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=flat&logo=Ansible&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C.svg?style=flat&logo=Atom&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800.svg?style=flat&logo=SublimeText&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=flat&logo=Jenkins&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=flat&logo=Helm&logoColor=white)
-
-___
 
 ### Gaming with
 
@@ -95,6 +72,3 @@ ___
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012.svg?style=flat&logo=Nintendo-Switch&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?style=flat&logo=Steam&logoColor=white)
 
-___
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=morlay.profile&style=flat)
