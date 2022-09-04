@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **morlay**, Web & DevOps Developer from Chengdu :panda_face: :cn:.
+I'm **Hush**, AI & student from Tianjin :fish: :cn:.
 
 ### Things I code with
 
