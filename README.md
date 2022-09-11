@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Hush**, AI & student from Tianjin :fish: :cn:.
+I'm **Hush**, AI learner & student from Tianjin :fish: :cn:.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=crush598&show_icons=true&theme=dark&count_private=true)
 
